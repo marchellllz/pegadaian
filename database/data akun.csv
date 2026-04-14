@@ -1,0 +1,36 @@
+kode_akun,nama_akun,jenis,spesifik,saldo_normal
+1011,"Kas Kecil",harta,"Harta Lancar",debit
+1012,"Kas Bank",harta,"Harta Lancar",debit
+1111,"Piutang Pinjaman Gadai",harta,"Harta Lancar",debit
+1112,"Piutang Bunga Gadai",harta,"Harta Lancar",debit
+1121,"Perlengkapan Kantor",harta,"Harta Lancar",debit
+1122,"Persediaan Barang Lelang",harta,"Harta Lancar",debit
+1131,"Uang Muka Sewa",harta,"Harta Lancar",debit
+1132,"Uang Muka Iklan",harta,"Harta Lancar",debit
+1201,Tanah,harta,"Harta Tetap",debit
+1202,Bangunan,harta,"Harta Tetap",debit
+1203,Kendaraan,harta,"Harta Tetap",debit
+1204,"Peralatan Kantor",harta,"Harta Tetap",debit
+1211,"Akumulasi Penyusutan Bangunan",harta,"Harta Tetap",kredit
+1212,"Akumulasi Penyusutan Kendaraan",harta,"Harta Tetap",kredit
+1213,"Akumulasi Penyusutan Peralatan",harta,"Harta Tetap",kredit
+2101,"Utang Usaha",utang,"Utang Jangka Pendek",kredit
+2102,"Utang Bunga",utang,"Utang Jangka Pendek",kredit
+2103,"Utang Pajak",utang,"Utang Jangka Pendek",kredit
+2111,"Uang Kelebihan Lelang",utang,"Utang Jangka Pendek",kredit
+2201,"Utang Bank",utang,"Utang Jangka Panjang",kredit
+2211,"Pinjaman Obligasi",utang,"Utang Jangka Panjang",kredit
+3001,"Modal Disetor",modal,"Modal Pemilik",kredit
+3002,"Laba Ditahan",modal,"Modal Operasional",kredit
+3003,"Cadangan Risiko Kredit",modal,"Modal Lainnya",kredit
+4001,"Pendapatan Bunga Gadai",pendapatan,"Pendapatan Operasional",kredit
+4002,"Pendapatan Admin",pendapatan,"Pendapatan Operasional",kredit
+4003,"Pendapatan Lelang",pendapatan,"Pendapatan Operasional",kredit
+4004,"Pendapatan Denda Keterlambatan",pendapatan,"Pendapatan Operasional",kredit
+5001,"Beban Gaji",beban,"Beban Operasional",debit
+5002,"Beban Listrik & Air",beban,"Beban Operasional",debit
+5003,"Beban Operasional Lainnya",beban,"Beban Operasional",debit
+5111,"Beban Kerugian Kredit Macet",beban,"Beban Kerugian",debit
+5211,"Beban Penyusutan Bangunan",beban,"Beban Penyusutan",debit
+5212,"Beban Penyusutan Kendaraan",beban,"Beban Penyusutan",debit
+5213,"Beban Penyusutan Peralatan Kantor",beban,"Beban Penyusutan",debit
